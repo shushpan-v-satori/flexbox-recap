@@ -20,3 +20,16 @@ div {
     height: 100px;
     border: 3px solid black;
 }
+
+@media screen and (max-width: 1300px ) {
+    section {
+        flex-direction: column;
+        padding: 20 px;
+        height: 100%;
+        justify-content: space-around;
+    }
+
+    div {
+        background-color: greenyellow;
+    }
+}
