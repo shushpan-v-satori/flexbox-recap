@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+section {
+    background-color: lightblue;
+    width: 80%;
+    margin: 50px auto;
+}
+
+div {
+    background-color: aquamarine;
+    height: 100px;
+    width: 200px;
+}
